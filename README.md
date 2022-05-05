@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrownyTofu
-- 👀 I’m interested in Node.js, JavaScript, 
+- 👀 I’m interested in Node.js, JavaScript, and backend related skills
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
